@@ -25,5 +25,5 @@
 6) Allow MySQL database access
 7) Two SSH credentials, one for the Web Tier and another for the Database Tier
 
-![Hybrid Cloud using AWS](/project3/images/start-0.jpg)
+![Hybrid Cloud using AWS](/project3/images/0-start.jpg)
 
